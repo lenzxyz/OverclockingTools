@@ -81,7 +81,6 @@ namespace OverclockTools
                     Console.WriteLine($"The tool '{toolname}' could not be found");
                 }
             }
-
         }
     }
 }
